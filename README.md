@@ -57,20 +57,11 @@ L'ensemble est livré sous forme d'**application web interactive**, utilisable p
 `Python` · `Pandas` · `NumPy` · `scikit-learn` · `Gradient Boosting` · `Classification binaire` · `Feature engineering (encodage, normalisation)` · `Plotly` · `Streamlit` · `Joblib` · `Gestion d'erreurs et validation des données` · `HTML/CSS`
 
 ## 🚀 Lancer le projet
-
-```bash
-# 1. Cloner le dépôt
-git clone https://github.com/ibrahimadieng997boop/<nom-du-repo>.git
-cd <nom-du-repo>
-
-# 2. Installer les dépendances
-pip install -r requirements.txt
-
-# 3. Lancer l'application
-streamlit run app.py
+```
+Lancer l'application
 ```
 
-L'application s'ouvre sur `http://localhost:8501`.
+[Lien vers l'application: https://prediction-markting-bancaire-txovzczirswkhaendycm3w.streamlit.app/].
 
 > 💡 Pour tester la prédiction par lot, utilisez directement le fichier d'exemple `df_copy.csv` fourni dans le dépôt.
 
